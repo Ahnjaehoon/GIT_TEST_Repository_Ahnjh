@@ -7,6 +7,7 @@ main()
         u8s_T_Main = big_RESET; 
         TEK_func1();
         TEK_func2();
+        TEK_func3();
     }
     
     return;
