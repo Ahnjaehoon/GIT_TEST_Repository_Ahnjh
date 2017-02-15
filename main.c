@@ -9,6 +9,7 @@ main()
         TEK_func2();
         TEK_func3();
         TEK_func_Temp1();
+        TEK_func_Temp2();
     }
     
     return;
