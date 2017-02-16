@@ -12,6 +12,7 @@ main()
         TEK_func_master1();
         TEK_func_master2();
         TEK_func_master3();
+        TEK_func_master4();
 
         TEK_func_Temp1();
         TEK_func_Temp2();
